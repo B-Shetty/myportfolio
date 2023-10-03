@@ -10,8 +10,9 @@
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
+
 ::-webkit-scrollbar{
-    display:none;
+    display: none;
 }
 
 body{
